@@ -1,5 +1,5 @@
-name: sample_app
-description: "A new Flutter project."
+name: platform_adaptive_flutter_template
+description: "A new Flutter project that is platform adaptive using the package flutter_platform_widgets"
 publish_to: 'none'
 version: 0.1.0
 
